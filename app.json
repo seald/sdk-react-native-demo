@@ -1,0 +1,12 @@
+{
+  "name": "seald-sdk-react-native-demo",
+  "displayName": "seald-sdk-react-native-demo",
+  "expo": {
+    "name": "seald-sdk-react-native-demo",
+    "slug": "seald-sdk-react-native-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
